@@ -501,6 +501,7 @@ label {
 #submit {
   outline: none;
   padding: 12px;
+  margin-top: 5px;
   min-width: 200px;
   border-radius: 2px;
   border: 2px solid #ff6363;
