@@ -441,6 +441,12 @@ p {
   width: 70%;
 }
 
+@media (max-width: 600px) {
+    .content-slide img {
+        width: 50%;
+    }
+}
+
 /* .image-container {
     display: flex;
     flex-direction: column;
